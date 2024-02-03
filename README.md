@@ -1,9 +1,9 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Haka Hakiev
 Software Developer
-I’m currently learning Software Engineering with JavaScript,* 
-🌍  I'm based in Sofia, Bulgaria, * 
-✉️  You can contact me at [haka.hakiev@gmail.com](mailto:haka.hakiev@gmail.com), * 
-🧠  I'm learning JS Back End, Node.js, Angular, * 
+I’m currently learning Software Engineering with JavaScript, 
+🌍  I'm based in Sofia, Bulgaria, 
+✉️  You can contact me at [haka.hakiev@gmail.com](mailto:haka.hakiev@gmail.com), 
+🧠  I'm learning JS Back End, Node.js, Angular,
 
 ### Skills
 
